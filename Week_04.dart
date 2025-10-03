@@ -14,6 +14,7 @@ printGuGuDan(int a, int b) {
     ;
   };
 }
+
 void main() {
   printGuGuDan(0, 0);
   printDan(2);
